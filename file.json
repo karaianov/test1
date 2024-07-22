@@ -3072,7 +3072,7 @@
         "description": "separator in filter provider item"
       },
       "basa": {
-        "value": "linear-gradient( #7D5233 0%, #EACA92 50%, #7D5233 100%)",
+        "value": "linear-gradient(#7D5233 0%, #EACA92 50%, #7D5233 100%)",
         "type": "color",
         "description": "separator in filter provider item"
       }
