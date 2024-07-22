@@ -5875,14 +5875,6 @@
       "description": "use for top padding in gameshall"
     }
   },
-  "This will change all layers that used the old token name": {
-    " This could take a while": {
-      "": {
-        "value": "#ff7a7a",
-        "type": "color"
-      }
-    }
-  },
   "notificatio": {
     "value": "#",
     "type": "color"
