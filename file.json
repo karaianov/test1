@@ -2483,10 +2483,6 @@
           "value": "rgba(69, 62, 60, 0.60)",
           "type": "color",
           "description": "bg for provider card"
-        },
-        "": {
-          "value": "#",
-          "type": "color"
         }
       },
       "border": {
